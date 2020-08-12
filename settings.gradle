@@ -1,0 +1,5 @@
+include ':lib_webview'
+include ':lib_common'
+include ':lib_base'
+include ':app'
+rootProject.name = "component_webview"
